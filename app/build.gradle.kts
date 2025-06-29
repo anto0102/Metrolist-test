@@ -10,7 +10,7 @@ plugins {
 }
 
 android {
-    namespace = "com.metrolist.music"
+    namespace = "com.anxy.music"
     compileSdk = 36
 
     defaultConfig {
